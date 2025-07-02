@@ -1,0 +1,4 @@
+crewai>=0.2.4
+openai>=1.16
+python-dotenv>=1.0
+rich>=13.7       # optional pretty console output
